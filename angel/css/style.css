@@ -1,0 +1,22 @@
+body {
+    background-color: light lightblue;
+}
+
+img {
+    background: #ffff66;
+}
+
+h1 {
+    color: #ff6666;
+}
+
+h3 {
+    color: #ff6666;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 4%;
+}
